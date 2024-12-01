@@ -1,6 +1,6 @@
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](.\js-dom-basics\image.png)
+![Uygulama Ekran Görüntüsü](image.png)
 
 # js-dom-basics
 
