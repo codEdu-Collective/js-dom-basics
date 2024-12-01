@@ -1,4 +1,4 @@
-## Ekran Görüntüleri
+## ScreenShot
 
 ![Uygulama Ekran Görüntüsü](image.png)
 
